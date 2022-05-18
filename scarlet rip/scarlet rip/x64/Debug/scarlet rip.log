@@ -1,7 +1,0 @@
-﻿  Source.cpp
-C:\Users\Jed\source\repos\cpp\scarlet rip\scarlet rip\Source.cpp(27,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Jed\source\repos\cpp\scarlet rip\scarlet rip\Source.cpp(40,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Jed\source\repos\cpp\scarlet rip\scarlet rip\Source.cpp(52,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Jed\source\repos\cpp\scarlet rip\scarlet rip\Source.cpp(151,63): warning C4129: 'm': unrecognized character escape sequence
-C:\Users\Jed\source\repos\cpp\scarlet rip\scarlet rip\Source.cpp(37): warning C4715: 'Uattack': not all control paths return a value
-  scarlet rip.vcxproj -> C:\Users\Jed\Source\Repos\cpp\scarlet rip\x64\Debug\scarlet rip.exe
